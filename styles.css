@@ -14,7 +14,7 @@ body {
 
 /* Header styling */
 header {
-  background-color: #a9c410;
+  background-color: lab(14.42% 10.58 20.69);
   color: white;
   padding: 20px;
   text-align: center;
@@ -22,7 +22,7 @@ header {
 
 /* Navigation bar */
 nav {
-  background-color: #333;
+  background-color: #114b53;
   display: flex;
   justify-content: center;
 }
